@@ -3,7 +3,7 @@
 A continuación, te comparto una lista de páginas web que considero muy útiles para diferentes propósitos:
 
 #### Componentes ya estilizados con tailwindcss
-Para poder utilizar estas libreias debes conocer tailwind css,y ya puedes personalizarlos tu mismo si algo no te gusta,no pongo material ui,etc porque esos son componentes ya echos(tipo bootstrap),que no puedes modificar libremente,como los que estan en esta lista.
+Para poder utilizar estas librerias debes conocer tailwind css,y ya puedes personalizarlos tu mismo si algo no te gusta,no pongo material ui,etc porque esos son componentes ya echos(tipo bootstrap),que no puedes modificar libremente,como los que estan en esta lista.
 
  * [Tailwind Components](https://tailwindcomponents.com/)
  * [Flowbite](https://flowbite.com/)
